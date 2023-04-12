@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-image: url("../imgs/pattern.jpeg");
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+    margin-bottom: 80px;
+}
+p {
+    text-align: left;
+    margin: 20px 0;
+}
+h2 {
+     color: white;
+}
+
+h3 {
+    color: black;
+}
+figure {
+    margin: 50px 0;
+}
+#brushes {
+    margin-top: 50px;
+}
+
+.blue {
+    color: blue;
+}
+
+#brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+#frames h2 {
+    background-color: lightcoral;
+}
+
+#paint h2 {
+    background-color: skyblue;
+}
+
+
+
